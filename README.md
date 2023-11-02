@@ -8,10 +8,12 @@ The code in the Lab06 directory can be run in GEE in order to produce a dense ve
 
 The link to GEE is: https://code.earthengine.google.com/?accept_repo=users/bastian6/EE505
 
-The results are: 
+The results after some edition in ArcGis Pro are: 
 
 
+<img src="Title Bar A4 Landscape.jpg" width="1000"/>
 
-https://github.com/bastian6666/EE505-GIS/blob/main/Title%20Bar%20A5%20Landscape.jpg
+<img src="Title Bar A5 Landscape.jpg" width="1000"/>
+
 
 
